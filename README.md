@@ -1,2 +1,2 @@
 # D-tect
-Este script sirve para encontrar  vulnerabilidades en sitios web 
+Este script sirve para encontrar  vulnerabilidades en sitios web entre mas
